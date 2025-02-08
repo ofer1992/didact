@@ -10,11 +10,6 @@ const element = (
   </div>
 )
 
-console.log(element);
-
+console.log(element)
 const container = document.getElementById("root")
-// createRoot(document.getElementById('root')).render(
-//   <StrictMode>
-//     <App />
-//   </StrictMode>,
-// )
+Didact.render(element, container)
