@@ -10,6 +10,5 @@ const element = (
   </div>
 )
 
-console.log(element)
 const container = document.getElementById("root")
 Didact.render(element, container)
