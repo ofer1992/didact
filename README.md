@@ -4,6 +4,6 @@
 
 The module's code is in the `src/didact.js`.
 
-TODO:
+## TODO
 - [ ] finish post.
 - [ ] strip away Vite.
