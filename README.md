@@ -1,8 +1,9 @@
-# React + Vite
+# Didact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Didact* is a reimplementation for education of *React* based on the great blog post [Build Your Own React](https://pomb.us/build-your-own-react/) by Rodrigo Pombo. Currently WIP, eventually might even go beyond the post.
 
-Currently, two official plugins are available:
+The module's code is in the `src/didact.js`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TODO:
+- [ ] finish post.
+- [ ] strip away Vite.
